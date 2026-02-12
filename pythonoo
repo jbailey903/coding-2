@@ -1,0 +1,10 @@
+#python oop-object oreniated programing
+
+# object- a representation
+# of some complex data structure 
+# data= data types
+
+# class- is a structure/ blueprint for creating
+# objects
+
+class computers:
