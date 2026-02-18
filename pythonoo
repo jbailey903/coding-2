@@ -8,3 +8,5 @@
 # objects
 
 class computers:
+    def _ init_ (self, name,brand,color,shape,storage, portablility, camera, ram, processor):
+        self
