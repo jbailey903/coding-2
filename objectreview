@@ -1,4 +1,4 @@
 def()student object:
 print(" what student objects should we have")
 self.pencils= pencils
-self.paper= paper
+self.paper= paper 
