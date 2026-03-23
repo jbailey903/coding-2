@@ -16,4 +16,7 @@
 # 1 method must do some type of conditional (if/else) logic. 
 
 
-object property is 
+object property is a character 
+object method is a function that belongs to the object
+
+self.arithmetic= arithmertic
