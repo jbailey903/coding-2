@@ -12,3 +12,16 @@ query=  https://bored-api.appbrewery.com/filter?type=education
 response= requests.get(query)
 
 print(respon
+
+filterd data=(
+'name': data(name')
+'height': data(height')
+'weight': data(weight')
+ 'abbilites': ability(name') for ability in data {'abillits'} 
+                      
+
+
+print(filitered_ data) 
+else:
+print(" data not found"
+print(response.status_code)                         
