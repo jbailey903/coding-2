@@ -2,7 +2,7 @@ import_sqllite3
 
 
 
-correct=_ sqllite3. connect
+correct=_ sqllite.3 connect
 
 # creat a object that will be sent to the new data Base
 cursor= connect.cursor()
@@ -10,11 +10,11 @@ cursor= connect.cursor()
 cursor.structure
 
 
-CREATE TABLE gamesales
-developer TEXT
-price INTERGER
-genre TEXT
-Sales INTERGER 
+CREATE TABLE gameSales(
+id INTEGER PRIMARY KEY,
+name TEXT,
+platform TEXT,
+developer TEXT,
 totalsales INTERGERS
 )
 ''')
@@ -24,3 +24,6 @@ cursor. execute('''
 
 connect.comit()
 conncect.close()
+
+
+INSERT INTO gameSales(Resident )
